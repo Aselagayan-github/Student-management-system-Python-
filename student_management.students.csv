@@ -1,0 +1,4 @@
+_id,Department,Course,Year,Semester,Student ID,Name,Gender,Phone,Email,Address
+65d754814f186a7b0f1e1bc0,Faculty of Business,BSc Digital Marketing,2020-2021,semester-1,20008003859,asela,Male,076914426,asela@gmail.com,galle
+65d7579902700370dab90eb0,Faculty of IT,BSc Software Engineering,2024-2025,semester-1,2001003934v,gayan,Female,gayan@gmail.com,766756430,colombo
+65d759a1076c9dbeee863d01,Faculty of Engineering,BEng Automotive Engineering,2022-2023,semester-3,210010873v,umesh,Male,097342322,umesh11@gmail.com,gampaha
